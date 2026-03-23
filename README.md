@@ -16,4 +16,4 @@ Lab Demonstrator/Teaching: Internet Technology, Interaction Technology, Software
  
 
 👉 Explore more on my portfolio website:
-🔗 [https://sukritidhang.github.io/sukriti-dhang-portfolio/](https://prakriti5dhang.github.io/portfolio-pdhang/)
+🔗 [https://prakriti5dhang.github.io/portfolio-pdhang/](https://prakriti5dhang.github.io/portfolio-pdhang/)
